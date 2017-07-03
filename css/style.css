@@ -13,3 +13,9 @@ a{
 li{
 	font-style: italic;
 }
+.new{
+	color: red;
+}
+.sale{
+	margin-left: 20px;
+}
