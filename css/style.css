@@ -6,6 +6,10 @@ body{
 a{
 	color: yellow;
 }
+#menu-active {
+	font-size: 18px;
+	font-weight: bold;
+}
 li{
 	font-style: italic;
 }
