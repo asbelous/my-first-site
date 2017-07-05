@@ -1,6 +1,7 @@
 /* селекторы тегов */
 body{
-	background: black;
+	background-color: black;
+	background-image: url(../img/Penguins.jpg);
 	color: white;
 	font-family: Calibry;
 }
