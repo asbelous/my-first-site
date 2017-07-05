@@ -25,7 +25,9 @@ li{
 
 img{
 	border-radius: 20px;
-	border-width: 5px;
+	/* border-width: 5px;
 	border-color: white;
 	border-style: solid;
+*/
+	border: 5px white solid;
 }
